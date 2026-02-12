@@ -19,7 +19,7 @@ Original datasets are not included due to confidentiality.
   Power BI dashboard for performance visualization and KPI analysis.
 
 - `demo/`  
-  Supporting scripts and configuration files.
+  Simple interface to simulate web-side recommendation display and visualize user-level Top-K results.
 
 - `requirements.txt`  
   Python dependencies for reproducing the environment.
